@@ -1,0 +1,8 @@
+sunday
+monday
+tuesday
+wednesday
+************
+Thursday
+Friday
+Saturday
